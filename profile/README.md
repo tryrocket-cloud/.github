@@ -8,3 +8,4 @@
 - [Lenovo ThinkCentre M700 Tiny](https://www.lenovo.com/de/de/p/desktops/thinkcentre/m-series-tiny/thinkcentre-m700/11tc1mtm700)
 - [Dell OptiPlex 3080 Micro](https://www.dell.com/support/home/de-de/product-support/product/optiplex-3080-micro/overview)
 - [Dell PowerEdge R340](https://www.dell.com/de-at/shop/poweredge-server/poweredge-r340-rack-server/spd/poweredge-r340/emea_r340_vi_vp)
+- [with H610I](https://www.gigabyte.com/de/Motherboard/H610I-DDR4-rev-10#kf)
