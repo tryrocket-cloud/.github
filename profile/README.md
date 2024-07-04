@@ -1,4 +1,4 @@
-Step into a digital haven! Welcome to Rocket Cloud! 🚀
+Welcome to Rocket Cloud! 🚀
 
 ## Workstations
 
