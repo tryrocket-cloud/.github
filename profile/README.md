@@ -18,6 +18,7 @@ Welcome to Rocket Cloud! 🚀
 | Raspberry Pi Zero 2W | 1W | 24W | 0.24€ |
 | Raspberry Pi 4 | 3W | 72W | 0.73€ |
 | Lenovo ThinkCentre M700 Tiny | 5.5W | 132W | 1.34€ | needs upgrade to i3 10+
-| Dell OptiPlex 3080 Micro | 5.5W | 132W | 1.34€ |
+| Dell OptiPlex 3080 Micro | 5.5W | 132W | 1.34€ | Podman quadlets
+| Dell OptiPlex 3080 Micro | 9W | 216W | 2.2€ | k3s
 | Dell PowerEdge R340 | 75W | 1800W | 18.36€ |
 | with H610I | 35W | 840W | 8.5€ |
